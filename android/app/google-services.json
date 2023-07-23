@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "910084116874",
+    "project_id": "my-famlegacy-f6495",
+    "storage_bucket": "my-famlegacy-f6495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910084116874:android:084903e688804861aab873",
+        "android_client_info": {
+          "package_name": "com.example.my_famlegacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910084116874-55svrmbg15r9qo382s3qfvtjf0iuq0eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpxyqUw7IvSOsy5d7bl1ue8qRCHmo1AfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910084116874-55svrmbg15r9qo382s3qfvtjf0iuq0eb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
